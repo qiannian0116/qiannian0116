@@ -10,7 +10,8 @@
 
 <br/>
 <br/>
-<p style="font-size: 18px; line-height: 1.6;">
+<br/>
+<p style="font-size: 22px; line-height: 2.0;">
   Hello! I'm a backend developer with a passion for building efficient, scalable systems. I enjoy tackling complex problems and continuously learning new technologies to enhance my skills. Currently, I'm exploring distributed systems, task offloading, and optimization techniques. Check out my projects to see what I'm working on!
 </p>
 <br/>
