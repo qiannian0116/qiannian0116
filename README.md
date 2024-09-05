@@ -1,15 +1,19 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=今天又是996的一天！！！&center=true&size=27" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=今天又是996的一天！！！&center=true&size=27" />
 </h1>
+
 ### Hi there 👋
 
-<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
-
-<br/>
-​	Hello! I'm a backend developer with a passion for building efficient, scalable systems. I enjoy tackling complex problems and continuously learning new technologies to enhance my skills. Currently, I'm exploring distributed systems, task offloading, and optimization techniques. Check out my projects to see what I'm working on!<br/>
-<br/>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p>Hello! I'm a backend developer with a passion for building efficient, scalable systems. I enjoy tackling complex problems and continuously learning new technologies to enhance my skills. Currently, I'm exploring distributed systems, task offloading, and optimization techniques. Check out my projects to see what I'm working on!</p>
+  </div>
+  
+  <div>
+    <img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+  </div>
+</div>
 
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
