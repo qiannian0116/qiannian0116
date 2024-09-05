@@ -6,11 +6,13 @@
 ### Hi there 👋
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- 文字部分 -->
   <div style="flex: 1; padding-right: 20px;">
     <p>Hello! I'm a backend developer with a passion for building efficient, scalable systems. I enjoy tackling complex problems and continuously learning new technologies to enhance my skills. Currently, I'm exploring distributed systems, task offloading, and optimization techniques. Check out my projects to see what I'm working on!</p>
   </div>
   
-  <div>
+  <!-- 图片部分 -->
+  <div style="flex-shrink: 0;">
     <img alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
   </div>
 </div>
