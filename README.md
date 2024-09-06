@@ -5,6 +5,8 @@
   </a>
 </h1>
 
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/>
+
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 <br/>
@@ -34,3 +36,4 @@
 
 
 ![Snake animation Light](https://github.com/qiannian0116/qiannian0116/blob/output/github-contribution-grid-snake.svg)
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
