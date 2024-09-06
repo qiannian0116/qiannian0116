@@ -38,7 +38,7 @@
 
 # <h3 align="center">Languages and Tools:</h3>
 
-<p style="text-align: center;"> 
+<div style="text-align: center;">
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
   </a> 
@@ -81,6 +81,6 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
   </a> 
-</p>
+</div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
