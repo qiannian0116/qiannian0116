@@ -8,11 +8,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/>
 
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
-
 <br/>
 <br/>
 <br/>
-<p style="font-size: 50px; line-height: 3.0; text-align: left;">
+<br/>
+<p style="font-size: 50px; line-height: 3.0;">
   Hello! I'm a backend developer with a passion for building efficient, scalable systems. I enjoy tackling complex problems and continuously learning new technologies to enhance my skills. Currently, I'm exploring distributed systems, task offloading, and optimization techniques. Check out my projects to see what I'm working on!
 </p>
 <br/>
